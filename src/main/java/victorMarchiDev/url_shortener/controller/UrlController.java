@@ -27,7 +27,6 @@ public class UrlController {
     @PostMapping(value = "/shorten-url")
     public ResponseEntity<ShortenUrlResponse> shortenUrl(@RequestBody ShortenUrlRequest request,
                                                          HttpServletRequest servletRequest) {
-
         String id;
         do {
             id = RandomStringUtils.randomAlphanumeric(5, 10);
