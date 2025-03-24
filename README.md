@@ -27,3 +27,7 @@ Este é um serviço de encurtamento de URLs desenvolvido com **Java + Spring Boo
 
 ---
 
+## 📌 Você pode conferir o repositório do front end deste projeto clicando [aqui](https://github.com/victorMarchiDev/curta-link)
+
+### ou se preferir, pode ir diretamente para o site em produção [Curta-Link](https://curta-link.vercel.app/)
+
